@@ -24,7 +24,7 @@ dmesg | slowpipe 10
 
 ## Issues
 
-Issue?  Bug?  Feature request?  Please submit an [issue](https://github.com/daveriesz/slowpipe/issues).
+Issue?  Bug?  Feature request?  Please submit an issue.
 
 ## Contributing
 
